@@ -1,0 +1,24 @@
+div {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 15px;
+  color: blue;
+  margin-left: 10rem;
+  margin-top: 10px;
+  border: 5px solid green;
+  width: 40rem;
+}
+iframe {
+  height: 10rem;
+  width: 50rem;
+  margin: 5rem;
+  border: 5px solid violet;
+}
+input {
+  width: 25rem;
+  border: 2px solid blue;
+}
+button {
+  margin-left: 30rem;
+  border: 2px solid blue;
+  background-color: aquamarine;
+}
